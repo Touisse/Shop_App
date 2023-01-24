@@ -1,0 +1,8 @@
+.Home{
+    flex: 4;
+}
+.HomeWidgets{
+    display: flex;
+    margin: 20px;
+    justify-content: space-between;
+}
